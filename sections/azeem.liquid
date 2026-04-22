@@ -1,24 +1,5 @@
-{%- style -%}
-  @keyframes fadeInUp {
-    0% {
-      opacity: 0;
-      transform: translateY(30px);
-    }
-    100% {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-
-  .fade-in-up {
-    animation: fadeInUp 0.8s ease-out forwards;
-    opacity: 0;
-    transform: translateY(30px);
-  }
-{%- endstyle -%}
-
 <section class="custom-heading">
-  <h1 class="fade-in-up">{{ section.settings.heading_text }}</h1>
+  <h1>{{ section.settings.heading_text }}</h1>
 </section>
 
 {% schema %}

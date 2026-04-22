@@ -139,11 +139,11 @@
         "include_margins": true
       }
     },
-    "azeem_aaNTcG": {
+    "azeem_Vh6bPY": {
       "type": "azeem",
-      "name": "Custom Heading",
+      "name": "Custom azeem",
       "settings": {
-        "heading_text": "Hello Shopify"
+        "heading_text": "Hello azeem"
       }
     }
   },
@@ -152,6 +152,6 @@
     "featured_collection",
     "1776205741a8b790d5",
     "177620585324611205",
-    "azeem_aaNTcG"
+    "azeem_Vh6bPY"
   ]
 }
